@@ -1,0 +1,8 @@
+﻿  a1ms3.c
+  clinic.c
+  core.c
+C:\Users\sirro\OneDrive\Desktop\PROJECTS\Assigment 1 IPC144\core.c(132,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sirro\OneDrive\Desktop\PROJECTS\Assigment 1 IPC144\core.c(166,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  LINK : C:\Users\sirro\OneDrive\Desktop\PROJECTS\Assigment 1 IPC144\x64\Debug\Assigment 1 IPC144.exe not found or not built by the last incremental link; performing full link
+  Assigment 1 IPC144.vcxproj -> C:\Users\sirro\OneDrive\Desktop\PROJECTS\Assigment 1 IPC144\x64\Debug\Assigment 1 IPC144.exe
